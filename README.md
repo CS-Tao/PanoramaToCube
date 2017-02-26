@@ -1,2 +1,2 @@
 # PanoramaToCube
-This is a java program to convert Panorama to cubemap.
+This is a java program which can convert Panorama to cubemap.
